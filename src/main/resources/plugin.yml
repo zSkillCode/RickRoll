@@ -1,0 +1,10 @@
+main: com.skillplugins.rickroll.RickRoll
+name: RickRoll
+version: 1.0
+author: SkillCode
+commands:
+  rickroll:
+    aliases:
+      - rr
+      - rick
+      - roll
